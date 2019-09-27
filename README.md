@@ -14,7 +14,7 @@
 
 ### Пример:
 
-`csc file.cs && file.exe input.txt`
+`csc file.cs '&&' file.exe input.txt`
 
 Результат:
 no 3
@@ -31,4 +31,3 @@ the 1
 us 1
 walk 1
 we 1
-
